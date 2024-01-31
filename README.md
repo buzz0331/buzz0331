@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=HYUNJUN&fontSize=20" />
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thankyou!&fontSize=20" />
 
