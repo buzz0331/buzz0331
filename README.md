@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=150&section=header&text=HYUN JUN&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=HYUNJUN&fontSize=20" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzz0331&hide=contribs,prs&show_icons=true&theme=테마)
 
