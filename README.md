@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyunjun%20GitHub&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyunjun%20GitHub&fontSize=70" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331)](https://github.com/anuraghazra/github-readme-stats)
 
