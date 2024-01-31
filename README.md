@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=HYUNJUN&fontSize=20" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzz0331&hide=contribs,prs&show_icons=true&theme=테마)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331)]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thankyou!&fontSize=20" />
 
