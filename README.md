@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyunjun%20GitHub&fontSize=70" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://www.instagram.com/hyun._.un/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>
 <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=buzz0331&row=1)](https://github.com/ryo-ma/github-profile-trophy)
