@@ -10,7 +10,7 @@
 [![buzz0331's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/buzz0331)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thankyou!&fontSize=20" />
-
+![rhythme0](https://github.com/buzz0331/buzz0331/assets/130340360/efb35cd6-408b-454b-b593-5d327334d42c)
 
 <!--
 **buzz0331/buzz0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
