@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyunjun%20GitHub&fontSize=70" />
 
-<a href="https://www.instagram.com/hyun._.un/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a>
 <br/>
 <p>Teck Stack</p>
 
