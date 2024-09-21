@@ -4,6 +4,9 @@
 <br/>
 <p>Teck Stack</p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=buzz0331&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![buzz0331's github stats](https://github-readme-stats.vercel.app/api?username=buzz0331&show_icons=true)
