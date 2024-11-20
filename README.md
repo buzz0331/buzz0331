@@ -1,31 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyunjun%20GitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Welcome%20to%20HyunJun's%20GitHub!&fontSize=40" />
 
-<br/>
-<p>🌟Teck Stack🌟</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=buzz0331&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-![buzz0331's github stats](https://github-readme-stats.vercel.app/api?username=buzz0331&show_icons=true)
-<a href="https://github.com/buzz0331"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=buzz0331&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="buzz0331's github stats" /></a>
+### 🛠️ Tech Stack
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
 
-![rhythme1](https://github.com/buzz0331/buzz0331/assets/130340360/f263dc53-c201-46ed-8993-3c55a832b09c)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thankyou!&fontSize=20" />
+### 📊 GitHub Stats
 
-<!--
-**buzz0331/buzz0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/buzz0331">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzz0331&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
+    </a>    
+    <a href="https://github.com/buzz0331">
+        <img src="https://github-readme-stats.vercel.app/api?username=buzz0331&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=55% />
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=buzz0331&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=buzz0331&theme=dracula&row=1&column=6&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=25" />
+</p>
