@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hyunjun%20GitHub&fontSize=70" />
 
 <br/>
-<p>Teck Stack</p>
+<p>🌟Teck Stack🌟</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -9,6 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=buzz0331&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![buzz0331's github stats](https://github-readme-stats.vercel.app/api?username=buzz0331&show_icons=true)
+<a href="https://github.com/buzz0331"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=buzz0331&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="buzz0331's github stats" /></a>
 
 ![rhythme1](https://github.com/buzz0331/buzz0331/assets/130340360/f263dc53-c201-46ed-8993-3c55a832b09c)
 
