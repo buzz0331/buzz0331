@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary><strong>🚚 Chacall: 푸드트럭 중개 및 매칭 플랫폼</strong> (2025.07 ~ 진행 중)</summary>
+  <summary><strong>🚚 Chacall: 푸드트럭 중개 및 매칭 플랫폼</strong> (2025.07 ~ 2025.12)</summary>
   <div markdown="1">
   <br/>
 
